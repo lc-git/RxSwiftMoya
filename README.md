@@ -1,2 +1,2 @@
 # RxSwiftMoya
-Moya + RxSwift + Model Mapping Example
+An Example about Moya + RxSwift + Model Mapping
